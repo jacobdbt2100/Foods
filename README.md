@@ -1,4 +1,4 @@
-# Foods for Concentration and Health
+# Foods
 
 ### A) Protein-Rich Foods
 - Eggs – boiled, fried, sauce
