@@ -31,6 +31,7 @@
 - Cabbage
 - Carrots
 - Cucumber
+- Garden egg
 - Green peas
 
 ### F) Drinks
