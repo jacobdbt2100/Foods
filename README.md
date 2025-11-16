@@ -1,23 +1,23 @@
 # Foods for Concentration and Health
 
-A) Protein-Rich Foods
+### A) Protein-Rich Foods
 - Eggs – boiled, fried, sauce
 - Beans / Moi-moi / Akara
 - Chicken (grilled or boiled)
 - Fish (mackerel/titus, sardine, catfish)
 
-B) Healthy Fats
+### B) Healthy Fats
 - Avocado (Pear)
 - Groundnut oil (moderate)
 - Palm oil (moderate)
 
-C) Complex Carbs
+### C) Complex Carbs
 - Brown rice
 - Yam
 - Boiled corn
 - Whole wheat bread
 
-D) Fruits
+### D) Fruits
 - Banana
 - Oranges / Tangerine
 - Watermelon
@@ -25,7 +25,7 @@ D) Fruits
 - Pawpaw
 - Apple
 
-E) Vegetables
+### E) Vegetables
 - Spinach
 - Ugu (Pumpkin leaves)
 - Cabbage
@@ -33,7 +33,7 @@ E) Vegetables
 - Cucumber
 - Green peas
 
-F) Drinks
+### F) Drinks
 - Water
 - Zobo (with low sugar)
 - Tea (ginger tea)
